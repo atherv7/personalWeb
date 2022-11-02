@@ -1,0 +1,28 @@
+.container {
+    width: 100%; 
+    height: calc(100vh - 70px); 
+    
+}
+
+.title {
+    display: block;  
+    width: fit-content;
+    padding: 4em; 
+    margin-left: calc(50vw - 323.242px);
+}
+
+.words {
+    text-align: center;
+    font-size: 200px;
+    margin: -0.3em;
+}
+
+#ImCover {
+    position: absolute; 
+    top: 17em;
+    margin-left: 6.75em;  
+    height: 10em; 
+    width: 20em; 
+    display: block;
+    background-color: black;
+}

@@ -1,0 +1,18 @@
+.sub {
+    color: gray;
+    font-size: 30px;
+    width: 50vw;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 25vw; 
+}
+
+.text {
+    margin-right: 0.5em;
+}
+
+.cursor {
+    margin-right: -0.25em; 
+}

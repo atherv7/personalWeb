@@ -1,0 +1,14 @@
+.card {
+    width: 30vw;
+    height: auto;
+    margin-left: 3.125em;
+    /* padding: 0.25em; */
+    /* border-radius: 5%;
+    box-shadow: 7px 7px 5px;
+    background-color: rgb(240, 240, 240); */
+}
+
+.card p {
+    font-size: 50px;
+    font-weight: 500;
+}

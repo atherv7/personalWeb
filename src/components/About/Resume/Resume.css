@@ -1,0 +1,35 @@
+.butt {
+    width: 5vw;
+    height: auto;
+    margin-top: -48vh;
+    margin-left: 47vw;
+}
+
+.butt button {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 1em;
+    border-radius: 7%;
+    margin-top: 14vh;
+    margin-left: -1em;
+    position: absolute; 
+    z-index: 2;
+}
+
+.anim {
+    overflow: hidden;  
+    width: 35vw; 
+    height: fit-content;
+    margin-left: -15vw;
+    position: absolute;
+}
+
+#light {
+    transform: unset !important; 
+    z-index: -1 !important;
+}
+
+button {
+    cursor: pointer; 
+}
